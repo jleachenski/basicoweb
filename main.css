@@ -1,0 +1,14 @@
+.texto {
+    color: white;
+    font-weight: 900;
+}
+
+.big {
+    font-size: 64px;
+}
+
+.backgr {
+    width: 100vw; 
+    height: 100vh; 
+    background-color: brown;
+}
